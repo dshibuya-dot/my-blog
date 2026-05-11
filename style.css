@@ -66,3 +66,20 @@ footer {
   color: #999;
   margin-top: 40px;
 }
+
+/* 日付 */
+.date {
+  font-size: 13px;
+  color: #999;
+  margin-bottom: 16px;
+}
+
+/* 記事内リンク */
+article a {
+  color: #4a90d9;
+  text-decoration: none;
+}
+
+article a:hover {
+  text-decoration: underline;
+}
